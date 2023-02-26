@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.89d03dc2.css",
-    "main.js": "/static/js/main.079bd52b.js",
+    "main.css": "/static/css/main.db63b77c.css",
+    "main.js": "/static/js/main.3fda2179.js",
+    "static/media/city-title-Dhaka.png": "/static/media/city-title-Dhaka.70fa902ac989e0402dd4.png",
     "index.html": "/index.html",
-    "main.89d03dc2.css.map": "/static/css/main.89d03dc2.css.map",
-    "main.079bd52b.js.map": "/static/js/main.079bd52b.js.map"
+    "main.db63b77c.css.map": "/static/css/main.db63b77c.css.map",
+    "main.3fda2179.js.map": "/static/js/main.3fda2179.js.map"
   },
   "entrypoints": [
-    "static/css/main.89d03dc2.css",
-    "static/js/main.079bd52b.js"
+    "static/css/main.db63b77c.css",
+    "static/js/main.3fda2179.js"
   ]
 }
